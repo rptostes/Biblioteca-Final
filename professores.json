@@ -1,0 +1,22 @@
+[ {
+  "codigo" : 1,
+  "nome" : "1",
+  "endereco" : "2",
+  "telefone" : "3",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "4"
+}, {
+  "codigo" : 2,
+  "nome" : "Girafales",
+  "endereco" : "Rua 5",
+  "telefone" : "999999",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Ciencias"
+}, {
+  "codigo" : 3,
+  "nome" : "Linguiça",
+  "endereco" : "rua 3",
+  "telefone" : "9999999",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Historia"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "dataEmprestimo" : [ 2022, 10, 19 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 18 ],
+  "dataDevolucao" : [ 2022, 10, 19 ],
+  "leitor" : {
+    "codigo" : 2,
+    "nome" : "Girafales",
+    "endereco" : "Rua 5",
+    "telefone" : "999999",
+    "prazoMaximoDevolucao" : 30
+  },
+  "livro" : {
+    "codigo" : 1,
+    "titulo" : "teste",
+    "listaAutores" : [ {
+      "nome" : "Autor",
+      "sobrenome" : "sobre",
+      "nacionalidade" : "japones"
+    } ]
+  }
+} ]
